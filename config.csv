@@ -1,0 +1,5 @@
+input,/home/dell/Documents/UG3/DWDM/Assignments/Assgn1/try_input.csv
+output,/home/dell/Documents/UG3/DWDM/Assignments/Assgn1/output.csv
+support,0.15
+confidence,0.6
+flag,0
